@@ -1,5 +1,7 @@
 # 🏥 Hospital Management System
-https://github.com/upputhollasivarani/Hospital-management-system
+
+#Live Demo
+https://upputhollasivarani.github.io/Hospital-management-system/
 ## 📌 Project Overview
 
 The **Hospital Management System** is a web-based application developed to manage hospital patient records efficiently. It allows users to add, view, search, update, and delete patient information through a simple and user-friendly dashboard.
